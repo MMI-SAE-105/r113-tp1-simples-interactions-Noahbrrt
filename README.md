@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Barret
+- prénom : Noah
+- URL Netlify : https://rad-treacle-77e018.netlify.app/
 
 # Travail
 
